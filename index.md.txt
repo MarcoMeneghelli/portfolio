@@ -45,7 +45,13 @@ Durante o período cursado, obtive excelentes notas em:
 - Hardware
 
 ## Projetos
+
 ### Emissão de NFS-e
 **Descrição do Projeto:** Realizei o cadastro de pedidos no TOTVS Protheus e a emissão de NFS-e no TOTVS Protheus e no site da prefeitura de Maringá/PR. O projeto alcançou o FTE de 3 e reduziu significativamente o tempo de operação.
 
-**Habilidades e Ferramentas:** Automação de Processos, No Code, Automation Anywhere,
+**Habilidades e Ferramentas:** Automação de Processos, No Code, Automation Anywhere, Gestão de Projetos, Mapeamento de Processos, Análise de Viabilidade, Documentação, CoE. Ferramentas: Automation Anywhere.
+
+### Contas a Pagar - Repasse
+**Descrição do Projeto:** 'Repasse' é a operação realizada para repassar os valores aos polos da Vitru (Unicesumar e Uniasselvi), funcionando como um pagamento para os polos. O projeto absorveu o FTE de 5 pessoas, capturando informações lançadas no Sydle One (sistema de protocolos) e realizando a validação para pagamento no TOTVS Protheus.
+
+**Habilidades e Ferramentas:** Automação de Processos, No Code, Automation Anywhere, Gestão de Projetos, Mapeamento de Processos, Análise de Viabilidade, Documentação, CoE. Ferramentas: Automation Anywhere.
