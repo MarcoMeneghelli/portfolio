@@ -55,3 +55,14 @@ Durante o período cursado, obtive excelentes notas em:
 **Descrição do Projeto:** 'Repasse' é a operação realizada para repassar os valores aos polos da Vitru (Unicesumar e Uniasselvi), funcionando como um pagamento para os polos. O projeto absorveu o FTE de 5 pessoas, capturando informações lançadas no Sydle One (sistema de protocolos) e realizando a validação para pagamento no TOTVS Protheus.
 
 **Habilidades e Ferramentas:** Automação de Processos, No Code, Automation Anywhere, Gestão de Projetos, Mapeamento de Processos, Análise de Viabilidade, Documentação, CoE. Ferramentas: Automation Anywhere.
+
+## Participação em Congressos e Estudos
+- **RPA + IA** (maior evento da América Latina), Blumenau/SC
+- **iBPM**
+- **HiperAutomação**
+- **IA**
+
+## Contato
+- **Email:** marco_meneghelli@hotmail.com
+- **Telefone:** (47) 99661-3477
+- **LinkedIn:** [linkedin.com/in/marcoantonio-jesus](https://www.linkedin.com/in/marcoantonio-jesus/)
